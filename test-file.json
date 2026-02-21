@@ -1,0 +1,11 @@
+{
+  "simple_welcome": "Welcome to our application!",
+  "variable_greeting": "Hello, {user_name}! You have {count} new messages.",
+  "html_notice": "Please read our <b>Terms of Service</b> <a href='/terms'>here</a>.",
+  "security_test": "Search results for: <script>alert('XSS')</script>",
+  "plural_test": "{count, plural, one {one item} other {# items}}",
+  "long_text_ui": "This is a very long string designed to test if the user interface will break or overflow when translated into languages that are naturally longer than English, such as Arabic or German.",
+  "special_chars": "Price: $99.99 & Discount: 10% > 5% (Check mark: ✓)",
+  "empty_string_test": "",
+  "newline_text": "First line.\nSecond line with a\ttab."
+}
